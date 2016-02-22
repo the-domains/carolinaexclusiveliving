@@ -1,0 +1,28 @@
+name: CarolinaExclusiveLiving
+favicon: null
+layout_spectrum: 0.8400388152804226
+typography_spectrum: 0.05245002987794578
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5518184087704867
+  lightness: 0.12161061679944396
+  saturation: 0.10114483698271215
+  rhythmicContrast: 0.0784053651150316
+purpose: []
